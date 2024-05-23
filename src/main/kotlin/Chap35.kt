@@ -22,6 +22,13 @@ fun main(args: Array<String>) {
             println("二人は別人")
         }
     }
+
+    run{
+        println("----35.10----")
+        val p = Person("タケシ", 1234)
+        println(p.toString())
+    }
+
 }
 
 //35.1
